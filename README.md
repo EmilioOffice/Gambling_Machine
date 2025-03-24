@@ -35,7 +35,7 @@ It is recommended to use **Python 3.9** for this project. While newer or older v
    ```bash
    git clone https://github.com/your-username/gambling-machine.git
    
-1. **Execute the command**
+2. **Execute the command**
    This command sould be excecuted from /src foulder
    ```bash
    py ..\gambling_machine.py
