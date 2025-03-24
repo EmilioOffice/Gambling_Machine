@@ -33,7 +33,7 @@ It is recommended to use **Python 3.9** for this project. While newer or older v
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/gambling-machine.git
+   git clone https://github.com/EmilioOffice/Gambling_Machine.git
    
 2. **Execute the command**
    This command sould be excecuted from /src foulder
