@@ -34,3 +34,8 @@ It is recommended to use **Python 3.9** for this project. While newer or older v
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/your-username/gambling-machine.git
+   
+1. **Execute the command**
+   THios command sould be excecuted from /src foulder
+   ```bash
+   py ..\gambling_machine.py
